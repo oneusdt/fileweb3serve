@@ -1,8 +1,11 @@
 ![image](https://github.com/fileweb3serve/document/blob/main/yyy.png) <br>
 
-# 程序语言
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
+# PVP元宇宙链游 <br>
 
-# 游戏
-![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+## 元宇宙链游 rinkeby测试网络  PVP模式  mud文字类链游 <br>
+
+## 游戏演示链接 http://103.142.102.57/#/  <br>
+
+## 游戏介绍 https://github.com/fileweb3serve/document/blob/main/%E5%85%83%E5%AE%87%E5%AE%99%E5%A4%A7%E4%B9%B1%E6%96%97.pptx  <br>
+
+## 联系我们btc465825@protonmail.com <br>
