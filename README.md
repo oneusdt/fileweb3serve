@@ -14,7 +14,7 @@
 
 ## 增加攻击 http://air.xforce.world/static/zngj.mp4 <br>
 
-## 攻击其他角色 http://air.xforce.world/static/gjyh.mp4 <br>
+## 攻击其他角色/提取收益 http://air.xforce.world/static/gjyh.mp4 <br>
 
 ## 元宇宙大乱斗2.0 <br>
 
